@@ -7,11 +7,13 @@
   </em> 
   <br>
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Contact Me:*** 
-  <br>	
+  <p align="left">
+  <br>
+   <hr>
 <a target="_blank" href="https://www.linkedin.com/in/minatahaei/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 &emsp;
 <a target="_blank" href="mailto:minatahaei@outlook.com"
-><img src="https://img.shields.io/badge/-Outlook-030937?style=for-the-badge&logo=Outlook&logoColor=white"></img></a>
+><img src="https://img.shields.io/badge/-Outlook-030937?style=for-the-badge&logo=outlook&logoColor=white"></img></a>
 &emsp;
 <hr>
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Some Fun Facts about me...***
