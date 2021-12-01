@@ -26,7 +26,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-14354C?style=flat-square&logo=figma&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-9900fd?style=flat-square&logo=figma&logoColor=white)
     
 </p>
   <p align="center">
