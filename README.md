@@ -13,10 +13,11 @@
 ✔ I’m planning to learn iOS Development to have a better grasp on the medium I'm designing for! 🎆 <br>
 ✔ I’m a HUGE Sims fan! It's the only place where I can be a master spy and a world-known chef at the same time 🤣<br>
 ✔ I play the piano and compose music in my free time! my enthusiasm for music has made me interested in discovering how Machine Learning can help upcoming artists with their projects🎼🎹<br>
+<hr>
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools that I know...***
 <p align="left">
-<hr>
+
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
