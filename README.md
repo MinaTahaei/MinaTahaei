@@ -25,11 +25,13 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-030937?style=flat-square&logo=react&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-fd0000?style=flat-square&logo=figma&logoColor=white)
 ![AdobeXD](https://img.shields.io/badge/AdobeXD-9900fd?style=flat-square&logo=adobexd&logoColor=white)
 ![AdobePhotoshop](https://img.shields.io/badge/AdobePhotoshop-029b73?style=flat-square&logo=adobephotoshop&logoColor=white)
 ![AdobeIllustrator](https://img.shields.io/badge/AdobeIllustrator-c99702?style=flat-square&logo=adobeIllustrator&logoColor=white)
+
 </p>
 <br>
 <hr>
