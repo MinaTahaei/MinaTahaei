@@ -14,5 +14,5 @@
 ✔ I’m a HUGE Sims fan! It's the only place where I can be a master spy and a world-known chef at the same time 🤣<br>
 ✔ I play the piano and compose music in my free time! my enthusiasm for music has made me interested in discovering how Machine Learning can help upcoming artists with their projects🎼🎹<br>
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Know...***
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools that I know...***
 <p align="left">
