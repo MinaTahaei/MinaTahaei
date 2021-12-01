@@ -24,7 +24,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MinaTahaei&show_icons=true&locale=en" alt="MinaTahaei" width="410" /></p>
 
 <hr>
-Here are some ![🦜 parrots](https://cultofthepartyparrot.com):
+
+Here are some [🦜 parrots](https://cultofthepartyparrot.com):
 
 <div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
