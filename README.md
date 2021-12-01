@@ -1,5 +1,5 @@
-### Hi there 👋
-
+<h1 align="center">Hi Everyone! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Mina Tahaei</h1>
+<h3 align="center">UX Researcher and Designer | Software Developer| Machine Learning Enthusiast</h3>
 <!--
 **MinaTahaei/MinaTahaei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
