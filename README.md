@@ -7,10 +7,10 @@
   </em> 
   <br>
   
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Some Fun Facts about me..***
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Some Fun Facts about me...***
 
-✔ I’m currently working on making a strong design portfolio, as well as working on multiple software development projects. 👩‍🔧
-✔ I’m planning to learn iOS Development! There is something magical about Apple products that makes you wanna learn more about them 🧙‍♀️😄
-✔ I’m a HUGE Sims fan! It's the only place where I can be a master spy and a world-known chef at the same time 🤣
-✔ I play the piano and compose music in my free time! my enthusiasm for music has made me interested in discovering how Machine Learning can help upcoming artists with their projects!🎼🎹
+✔ I’m currently working on making a strong design portfolio, as well as working on multiple software development projects. 👩‍🔧<br>
+✔ I’m planning to learn iOS Development! There is something magical about Apple products that makes you wanna learn more about them 🧙‍♀️😄<br>
+✔ I’m a HUGE Sims fan! It's the only place where I can be a master spy and a world-known chef at the same time 🤣<br>
+✔ I play the piano and compose music in my free time! my enthusiasm for music has made me interested in discovering how Machine Learning can help upcoming artists with their projects!🎼🎹<br>
 -->
