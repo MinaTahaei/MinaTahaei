@@ -1,6 +1,6 @@
 <h1 align="center">Hi Everyone! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Mina Tahaei</h1>
 <h3 align="center">UX Researcher and Designer | Software Developer | Machine Learning Enthusiast</h3>
-<h3 align="center">(https://komarev.com/ghpvc/?username=LaMentaAzul)</h3>
+[![Github](https://img.shields.io/github/followers/MinaTahaei?label=Follow&style=social)](https://github.com/MinaTahaei)
 
 Here are some ideas to get you started:
 
