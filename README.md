@@ -71,7 +71,6 @@ Here are some [🦜 parrots](https://cultofthepartyparrot.com):
     <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
-</div>
- 
+</div> 
 <hr>
-![image](https://user-images.githubusercontent.com/35062700/207360471-c211384c-ff82-4eab-ac3e-edb8534ac417.png)
+
