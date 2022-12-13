@@ -34,8 +34,7 @@
  
 </p>
 <br>
-<hr>![image](https://user-images.githubusercontent.com/35062700/207360320-0591049a-ecbc-4665-a054-3506721f2013.png)
-
+<hr>
   <p align="center">
 <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MinaTahaei&show_icons=true&locale=en&layout=compact" alt="MinaTahaei" /></p>
