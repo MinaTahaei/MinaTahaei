@@ -15,7 +15,7 @@
 <hr>
  
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools that I know...***
-<p align="left">![image](https://user-images.githubusercontent.com/35062700/207359945-cab3b59d-a229-421f-91e0-a87778662ffe.png)
+
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-14354C?style=flat-square&logo=kotlin&logoColor=white)
