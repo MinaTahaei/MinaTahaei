@@ -33,16 +33,7 @@
 ![AdobeIllustrator](https://img.shields.io/badge/AdobeIllustrator-c99702?style=flat-square&logo=adobeIllustrator&logoColor=white)
  
 </p>
-<br>
-<hr>
-  <p align="left">
-<img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
-![Mina's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinaTahaei&show_icons=true)
- 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MinaTahaei&show_icons=true&locale=en" alt="MinaTahaei" width="410" /></p>
- 
-<hr>
- 
+<br> 
 Here are some [🦜 parrots](https://cultofthepartyparrot.com):
  
 <div>
