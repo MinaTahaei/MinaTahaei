@@ -34,9 +34,9 @@
  
 </p>
 <br> 
-<hr>
+<h1>
 Here are some [🦜 parrots](https://cultofthepartyparrot.com):
-</hr>
+</h1>
 <div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
