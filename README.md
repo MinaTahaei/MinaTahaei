@@ -2,17 +2,11 @@
 <h3 align="center">User Experience Designer | Software Developer | Machine Learning Enthusiast</h3>
 <p align="center">
   <em>
-    Welcome to my Github Page! I'm Mina, a <b>User Experience Designer</b> and <b>Software Developer</b> who is super interested in learning about how users behave, think and interact with different types of products. I want to be able to create designs that change everyone's lives for better and make them happy! I also dabble in code in my free time and as a part of my academic projects👩‍💻  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> 
+    Welcome to my GitHub Page! I'm Mina, a <b>User Experience Designer</b>, <b>Software Developer</b>, and <b>Digital Artist</b> who is super interested in learning about how users behave, think, and interact with different types of products. <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> 
   </em> 
 <hr>
  
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Some Fun Facts about me...***
- 
-✔ I’m a HUGE Sims fan! It's the only place where I can be a master spy and a world-known chef at the same time 🤣<br>
-✔ I play the piano and drums and compose music in my free time! my enthusiasm for music has made me interested in Generative Arts, Computational Creativity, and discovering how Machine Learning can help upcoming artists with their projects🎼🎹<br>
-<hr>
- 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools that I know...***
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;*** Some of the Languages & Tools that I know...***
 
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
@@ -29,6 +23,7 @@
 ![AdobeXD](https://img.shields.io/badge/AdobeXD-9900fd?style=flat-square&logo=adobexd&logoColor=white)
 ![AdobePhotoshop](https://img.shields.io/badge/AdobePhotoshop-029b73?style=flat-square&logo=adobephotoshop&logoColor=white)
 ![AdobeIllustrator](https://img.shields.io/badge/AdobeIllustrator-c99702?style=flat-square&logo=adobeIllustrator&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
  
 </p>
 <br> 
