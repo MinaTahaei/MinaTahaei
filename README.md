@@ -1,5 +1,5 @@
 <h1 align="center">Hi Everyone! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px">, I'm Mina Tahaei</h1>
-<h3 align="center">User Experience Designer | Software Developer | Machine Learning Enthusiast</h3>
+<h3 align="center">User Experience Designer | Software Developer | Visual and Sound Artist </h3>
 <p align="center">
   <em>
     Welcome to my GitHub Page! I'm Mina, a <b>User Experience Designer</b>, <b>Software Developer</b>, and <b>Digital Artist</b> who is super interested in learning about how users behave, think, and interact with different types of products. <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> 
