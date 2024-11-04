@@ -8,7 +8,7 @@
  
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Some Fun Facts about me...***
  
-✔ I’m a HUGE Sims fan! It's the only place where I can be a master spy and a world-known chef at the same time 🤣<be>
+✔ I’m a HUGE Sims fan! It's the only place where I can be a master spy and a world-known chef at the same time 🤣<br>
 ✔ I play the piano and drums and compose music in my free time! my enthusiasm for music has made me interested in Generative Arts, Computational Creativity, and discovering how Machine Learning can help upcoming artists with their projects🎼🎹<br>
 <hr>
  
