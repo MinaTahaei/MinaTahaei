@@ -28,6 +28,14 @@
 </p>
 <br> 
 
+
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;*** I am interested in ...***
+
+-  User Psychology and User-Centered Design 
+-  Generative AI
+-  User Experience and User Interface Design for AR
+-  Artificial Intelligence in UX 
+
 Here are some [🦜 parrots](https://cultofthepartyparrot.com):
 <div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
