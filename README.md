@@ -6,7 +6,7 @@
   </em> 
 <hr>
  
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;*** Some of the Languages & Tools that I know...***
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;** Some of the Languages & Tools that I know...**
 
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
@@ -29,7 +29,7 @@
 <br> 
 
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;*** I am interested in ...***
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;** I am interested in ...**
 
 -  User Psychology and User-Centered Design 
 -  Generative AI
