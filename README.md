@@ -27,7 +27,7 @@
 ![Figma](https://img.shields.io/badge/Figma-fd0000?style=flat-square&logo=figma&logoColor=white)
 ![AdobePhotoshop](https://img.shields.io/badge/AdobePhotoshop-029b73?style=flat-square&logo=adobephotoshop&logoColor=white)
 ![AdobeIllustrator](https://img.shields.io/badge/AdobeIllustrator-c99702?style=flat-square&logo=adobeIllustrator&logoColor=white)
-![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=flat-square&logo=adobeaftereffects&logoColor=white)
+![Adobe After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=flat-square&logo=adobeaftereffects&logoColor=white)
 ![Final Cut Pro](https://img.shields.io/badge/Final%20Cut%20Pro-1D1D1D?style=flat-square&logo=apple&logoColor=white)
 ![FL Studio](https://img.shields.io/badge/FL%20Studio-F48C06?style=flat-square&logo=abletonlive&logoColor=white)
 ![Ableton](https://img.shields.io/badge/Ableton-000000?style=flat-square&logo=ableton&logoColor=white)
