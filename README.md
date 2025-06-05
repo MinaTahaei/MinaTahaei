@@ -10,7 +10,12 @@
 
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-14354C?style=flat-square&logo=kotlin&logoColor=white)
+![Processing](https://img.shields.io/badge/Processing-006699?style=flat-square&logo=processingfoundation&logoColor=white)
+![TouchDesigner](https://img.shields.io/badge/TouchDesigner-000000?style=flat-square&logo=nvidia&logoColor=white)
+![Resolume](https://img.shields.io/badge/Resolume-101010?style=flat-square&logo=apachespark&logoColor=white)
+![SPSS](https://img.shields.io/badge/SPSS-00274D?style=flat-square&logo=ibm&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-007ACC?style=flat-square&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -20,11 +25,14 @@
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-fd0000?style=flat-square&logo=figma&logoColor=white)
-![AdobeXD](https://img.shields.io/badge/AdobeXD-9900fd?style=flat-square&logo=adobexd&logoColor=white)
 ![AdobePhotoshop](https://img.shields.io/badge/AdobePhotoshop-029b73?style=flat-square&logo=adobephotoshop&logoColor=white)
 ![AdobeIllustrator](https://img.shields.io/badge/AdobeIllustrator-c99702?style=flat-square&logo=adobeIllustrator&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
- 
+![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=flat-square&logo=adobeaftereffects&logoColor=white)
+![Final Cut Pro](https://img.shields.io/badge/Final%20Cut%20Pro-1D1D1D?style=flat-square&logo=apple&logoColor=white)
+![FL Studio](https://img.shields.io/badge/FL%20Studio-F48C06?style=flat-square&logo=abletonlive&logoColor=white)
+![Ableton](https://img.shields.io/badge/Ableton-000000?style=flat-square&logo=ableton&logoColor=white)
+![Max/MSP](https://img.shields.io/badge/Max/MSP-808080?style=flat-square&logo=max&logoColor=white)
+![Logic Pro](https://img.shields.io/badge/Logic%20Pro-1D1D1D?style=flat-square&logo=apple&logoColor=white) 
 </p>
 <br> 
 
