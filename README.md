@@ -40,7 +40,7 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; **I am interested in ...**
 
 -  User Psychology and User-Centered Design 
--  Large Language Models and Machine Learning
+-  Large Language Models, Natural Language Processing, and Applied Machine Learning
 -  User Experience and User Interface Design for VR, AR, and AI Agents
 
 <hr>
