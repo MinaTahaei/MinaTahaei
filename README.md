@@ -40,9 +40,8 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; **I am interested in ...**
 
 -  User Psychology and User-Centered Design 
--  Generative AI
--  User Experience and User Interface Design for AR
--  Artificial Intelligence in UX 
+-  Large Language Models and Machine Learning
+-  User Experience and User Interface Design for VR, AR, and AI Agents
 
 <hr>
 
