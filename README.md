@@ -39,9 +39,9 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; **I am interested in ...**
 
--  User Psychology and User-Centered Design 
--  Large Language Models, Natural Language Processing, and Applied Machine Learning
--  User Experience and User Interface Design for VR, AR, and AI Agents
+-  Artificial Intelligence, Applied Machine Learning, and Large Language Models 
+-  Interaction Design and HCI, Data Visualization, Gamification
+-  Social Networking and Entertainment through the lens of Cognitive Science and Psychology
 
 <hr>
 
