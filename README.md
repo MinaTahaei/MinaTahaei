@@ -39,9 +39,9 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; **I am interested in ...**
 
--  Artificial Intelligence, Applied Machine Learning, and Large Language Models 
--  Interaction Design and HCI, Data Visualization, Gamification
--  Social Networking and Entertainment through the lens of Cognitive Science and Psychology
+-  Applied Artificial Intelligence, Applied Machine Learning, and Large Language Models 
+-  Interaction Design and HCI, AI-Assisted User Experience, AI UX, Data Visualization, and Gamification
+-  Social Networking and Entertainment through the Lens of Cognitive Science and Psychology
 
 <hr>
 
